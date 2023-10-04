@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 80px;
+}
+p {
+  font-size: 25px;
+}
+a {
+  font-size: 20px;
+}
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
