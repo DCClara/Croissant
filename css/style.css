@@ -2,9 +2,9 @@ body {
   background-image: url(https://shwetainthekitchen.com/wp-content/uploads/2022/12/nutella-croissants.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  color: #1b0c0e;
 }
-h1,
-h3 {
+h1 {
   font-size: 80px;
 }
 p {
@@ -13,6 +13,14 @@ p {
 a {
   font-size: 25px;
   color: brown;
+}
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #7aa777;
 }
 .container {
   background-color: bisque;
@@ -27,4 +35,8 @@ a {
 
   border-radius: 10px;
   padding: 50px;
+}
+.breakfast-croissant {
+  border-radius: 10px;
+  margin-bottom: 30px;
 }
